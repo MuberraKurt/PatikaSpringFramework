@@ -1,6 +1,6 @@
 package com.muberrakurt.utils;
 
 public class PermaLink {
-    //Github
-    
+    //Github: https://github.com/MuberraKurt/PatikaSpringFramework
+
 }
